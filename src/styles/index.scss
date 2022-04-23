@@ -1,0 +1,23 @@
+@import './patches.scss';
+@import './theme.scss';
+
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+  z-index: 100;
+}
+
+.joystickWrapper1 {
+  pointer-events: auto;
+  display: block;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: transparent;
+  width: 120px;
+  height: 120px;
+  touch-action: manipulation;
+  background-color: rgba(red, 0.2);
+}

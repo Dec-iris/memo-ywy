@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cloud 2
+* source:	https://sketchfab.com/3d-models/cloud-2-f6ebf18fd56b4764b1a6b4d24bca907e
+* author:	nigromancer (https://sketchfab.com/nigromancer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cloud 2" (https://sketchfab.com/3d-models/cloud-2-f6ebf18fd56b4764b1a6b4d24bca907e) by nigromancer (https://sketchfab.com/nigromancer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
